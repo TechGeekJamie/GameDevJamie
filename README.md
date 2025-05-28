@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @GameDevJamie
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning React, Gatsby, and Styled Components for my new portfolio
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jamie Tumalty / @GameDevJamie
+- 👀 I’m interested in Software and Game Development
+- 🌱 I’m currently working on a new portfolio using Astro, React, and Tailwind
 
 <!---
 GameDevJamie/GameDevJamie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
